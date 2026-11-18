@@ -1,5 +1,6 @@
-numpy
-pandas
-scikit-learn>=1.2
-matplotlib
-shap
+# Exact versions used to produce the V2 paper (Python 3.13)
+numpy==2.5.3
+pandas==3.0.5
+scikit-learn==1.9.1
+matplotlib==3.11.2
+shap==0.54.1
